@@ -1,5 +1,4 @@
-asdcho "hello"
-asdasdecho "kaixo"
+cho "kaixo"
 echo "aupa"
 echo "agur"
 echo "bye"
