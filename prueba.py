@@ -1,4 +1,4 @@
-echo "hello"
+asdcho "hello"
 asdasdecho "kaixo"
 echo "aupa"
 echo "agur"
